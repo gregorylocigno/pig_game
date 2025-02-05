@@ -12,12 +12,6 @@
 - The first player to get a score of 100 wins the game.
 - Restart the
 
-### Links
-
-- Solution URL: https://github.com/Workablery/pig_game
-
-- Live Site URL: https://workablery.github.io/pig_game/
-
 ## My process
 
 ### Built with
@@ -27,8 +21,3 @@
 - Basic concepts of Javascript
 - DOM manipulation
 
-## Author
-
-- Website - [Workablery Design](https://github.com/Workablery)
-- Frontend Mentor - [@Workablery](https://www.frontendmentor.io/profile/Workablery)
-- LinkedIn - [Grégory Locigno](https://www.linkedin.com/in/greglocigno/)
